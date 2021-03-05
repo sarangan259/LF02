@@ -39,7 +39,7 @@ public class Person {
         return "Person{" +
                 "vorname='" + vorname + '\'' +
                 ", nachname='" + nachname + '\'' +
-                ", adresse='" + adresse + '\'' +
+                ",[Lucas] adresse='" + adresse + '\'' +
                 '}';
     }
 }
